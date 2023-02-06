@@ -1,0 +1,64 @@
+1. Guido van Rossum developed python.
+
+2. Python support an interpreted programming language, supporting object-oriented, structured, and functional programming.
+
+3.Yes, Python is case-sensitive when dealing with identifiers.
+
+4 .py
+
+5. interpreted.
+
+6. if , type(), str , remove() , append(), insert()
+
+7. # used for single line comment.
+
+8.import sys
+print("Python version")
+print(sys.version)
+print("Version info.")
+print(sys.version_info)
+
+9. lambda
+
+10. preferred installer program
+
+11.  type()
+     append()
+     insert()
+     index()
+     count()
+     input()
+     
+12.There is no limit
+ 
+13. Easy to learn and use: Python has a simple and intuitive syntax, making it a great language for beginners and experts alike.
+    Cross-platform: Python can run on multiple platforms, including Windows, macOS, and Linux, making it an ideal choice for development that needs       to be ported to different platforms.
+    Dynamically typed: Python is dynamically typed, meaning that you don't need to declare the type of a variable before using it. This can make         development faster, but also requires a deeper understanding of data types and their behavior.
+     Readable and maintainable code: Python is designed to prioritize code readability, making it easier to write and maintain large projects.
+     
+14.Python uses a memory management system called the "garbage collector" to automatically manage the memory used by objects in the program. The garbage collector tracks the references to objects in the program and frees up memory for objects that are no longer needed.
+ 
+ 
+15. Here's how to install Python and set the PATH variable on a Windows system:
+
+Download the Python installer from the official Python website: https://www.python.org/downloads/
+
+Run the installer and follow the on-screen instructions to install Python.
+
+After the installation is complete, open the Start menu and search for "Environment Variables".
+
+Click on "Edit the system environment variables".
+
+In the System Properties window, click on the "Environment Variables" button.
+
+Scroll down the list of "System variables" and find the "Path" variable, then click "Edit".
+
+Click "New" and add the path to the Python installation directory, typically C:\PythonXX\, where XX is the version number of Python installed.
+
+Click "OK" to close all the windows and save the changes.
+
+Open the Command Prompt and run python to confirm that the PATH variable has been set correctly and Python is installed and working properly.
+
+
+16.Indentation required in python.
+     
